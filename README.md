@@ -1,2 +1,2 @@
 # KafkaProject
-Kafka
+Train Basic Kafka
